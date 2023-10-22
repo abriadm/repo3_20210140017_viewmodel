@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">form_application</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="telpon">Telpon</string>
+    <string name="pria">Laki-Laki</string>
+    <string name="wanita">Perempuan</string>
+    <string name="display_nama">Nama :</string>
+    <string name="display_telpon">Telpon :</string>
+    <string name="display_kelamin">Jenis Kelamin :</string>
+</resources>
